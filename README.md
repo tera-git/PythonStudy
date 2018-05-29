@@ -1,0 +1,3 @@
+# PythonStudy
+python code memorandum
+
