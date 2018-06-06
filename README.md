@@ -1,3 +1,3 @@
 # PythonStudy
-    - python code memorandum
+    - python code snippets memorandum
     - jupyter notebook/lab 実行
