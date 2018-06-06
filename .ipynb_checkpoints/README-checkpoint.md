@@ -1,3 +1,3 @@
 # PythonStudy
-python code memorandum
-jupyter notebook lab 実行
+    - python code memorandum
+    - jupyter notebook lab 実行
